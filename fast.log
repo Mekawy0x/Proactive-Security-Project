@@ -1,0 +1,29 @@
+12/20/2024-14:10:31.596663  [**] [1:100004:1] Malicious IP detected in UDP traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.44.133:60788 -> 85.114.128.127:53
+12/20/2024-14:10:45.211950  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:10:45.211950  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:10:57.015628  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:10:57.015628  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:00.385800  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:00.385800  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:03.816135  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:03.816135  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:06.340144  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:06.340144  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:08.534119  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:08.534119  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:11.639209  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:11.639209  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:13.791668  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:13.791668  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:16.532262  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:16.532262  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49854 -> 23.12.142.221:80
+12/20/2024-14:11:19.968508  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:19.968508  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:22.546657  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:22.546657  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:24.655204  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:24.655204  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:26.708136  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:26.708136  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:28.817241  [**] [1:1000001:1] Fake Flash Player Update Request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
+12/20/2024-14:11:28.817241  [**] [1:1000002:1] Suspicious Flash Player [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.44.133:49861 -> 23.12.142.221:80
